@@ -1,7 +1,9 @@
 body {
-	background-color: olive;
+	background-color: Grey;
 }
 
 h1 {
-	background-color: purple;
+	background-color: Orange;
+	font: Helvetica;
+	fontsize: 30pt;
 }
